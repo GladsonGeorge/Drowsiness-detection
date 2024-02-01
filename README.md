@@ -1,6 +1,6 @@
 # Drowsiness-detection-mediapipe-part
 --README--
-## STEPS TO RUN CODE##
+## STEPS TO RUN CODE
 
 The yawn counter code is written in the python file DrowsinessCounter.py
 
